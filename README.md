@@ -68,5 +68,5 @@ This project demonstrates an **end-to-end data analysis pipeline** using Python,
 ## 💼 Author  
 👤 **Affan**  
 🎓 BTech in Artificial Intelligence & Data Science  
-📧 your.email@example.com  
-🌐 [LinkedIn Profile](https://www.linkedin.com)  
+📧 mohdaffanali2006@gmail.com  
+🌐 [LinkedIn Profile](www.linkedin.com/in/mohammed-affan-3a09652b2)  
